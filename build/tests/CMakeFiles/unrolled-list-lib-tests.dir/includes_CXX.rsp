@@ -1,0 +1,1 @@
+-I"D:/university/c++/laba 7/lib" -I"D:/university/c++/laba 7" -isystem "D:/university/c++/laba 7/build/_deps/googletest-src/googletest/include" -isystem "D:/university/c++/laba 7/build/_deps/googletest-src/googletest" -isystem "D:/university/c++/laba 7/build/_deps/googletest-src/googlemock/include" -isystem "D:/university/c++/laba 7/build/_deps/googletest-src/googlemock"

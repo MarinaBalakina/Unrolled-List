@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\unrolled_list.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\unrolled_list.dir/objects.a @CMakeFiles\unrolled_list.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\unrolled_list.dir/objects.a -Wl,--no-whole-archive -o unrolled_list.exe -Wl,--out-implib,libunrolled_list.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\unrolled_list.dir\linkLibs.rsp
